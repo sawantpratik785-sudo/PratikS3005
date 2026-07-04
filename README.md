@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**PratikS3005/PratikS3005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Pratik Sawant! 👋
 
-Here are some ideas to get you started:
+**B.Tech Computer Science & Engineering Student | Intern @ GE Aerospace**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub! I am a passionate engineering student and developer focused on building efficient software and exploring the power of data. I love turning complex problems into clean, scalable code. 
+
+### 👨‍💻 About Me
+* 🎓 Currently pursuing a B.Tech in Computer Science Engineering at **D Y Patil International University**.
+* 💼 Currently working as an Intern at **GE Aerospace**.
+* 🤖 Previously engaged in a Generative AI internship program at **Infotact Solutions**.
+* 💡 I enjoy participating in Hackathons to challenge my problem-solving skills under pressure.
+* 🌱 Currently focusing on enhancing my skills in **Data Warehousing, Predictive Analytics, and Object-Oriented Programming**.
+* 📫 How to reach me: [Insert your LinkedIn URL here]
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Java, SQL, C
+* **Data & AI:** Data Mining, ETL Pipelines, Generative AI
+* **Design & Media:** Adobe Express 
+
+### ⚡ Quick Facts
+* When I am not debugging code, you might find me organizing and participating in local box cricket tournaments! 🏏
+
+---
+*⭐️ Feel free to check out some of my featured repositories below!*
