@@ -8,7 +8,7 @@ Welcome to my GitHub! I am a passionate engineering student and developer focuse
 
 ### 👨‍💻 About Me
 * 🎓 Currently pursuing a B.Tech in Computer Science Engineering at **D Y Patil International University**.
-* 💼 Currently working as an Intern at **GE Aerospace**.
+* 💼 EX-Intern at **GE Aerospace**.
 * 🤖 Previously engaged in a Generative AI internship program at **Infotact Solutions**.
 * 💡 I enjoy participating in Hackathons to challenge my problem-solving skills under pressure.
 * 🌱 Currently focusing on enhancing my skills in **Data Warehousing, Predictive Analytics, and Object-Oriented Programming**.
